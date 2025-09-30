@@ -1,0 +1,16 @@
+.qr-wrap {
+  text-align: center;
+}
+
+.qr-sub {
+  margin-top: 8px;
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.qr-url {
+  margin-top: 6px;
+  font-size: 11px;
+  opacity: 0.6;
+  word-break: break-all;
+}
